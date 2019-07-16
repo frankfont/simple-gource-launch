@@ -8,6 +8,8 @@ You already have Docker utilities installed.
 
 USAGE
 -----
+Run the launch.sh script from your linux console and open the the interface at http://localhost:8080/
+
 ```
 ./launch.sh GIT_REPO_URL PROJECT_TITLE LOGO_URL
 ```
