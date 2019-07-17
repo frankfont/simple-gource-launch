@@ -20,13 +20,29 @@ Run the launch.sh script from your linux console and open the the interface at h
 
 EXAMPLE
 -------
-1. Launch script in console
+1. Launch script in console with the URL to the git repo you want to "film".
 
-[launch with params](wiki-assets/pics/launch-gource-0.png)
+![launch with params](wiki-assets/pics/launch-gource-0.png)
 
 2. Verify the values when prompted; press ENTER key to kick off the show!
 
-[verification screen](wiki-assets/pics/launch-gource-1.png)
+![verification screen](wiki-assets/pics/launch-gource-1.png)
+
+3. Wait for the gource application to finish making your mp4 movie.  The browser at __localhost:8080__ will show a temporary message until the movie is ready.
+
+![browser movie not ready](wiki-assets/pics/launch-gource-2-browser.png)
+
+4. The console will show you when the film is ready.
+
+![console movie created message](wiki-assets/pics/launch-gource-3-done-console.png)
+
+5. Watch the movie in the browser when ready.
+
+![watch in browser](wiki-assets/pics/launch-gource-4-done-browser.png)
+
+6. Download your mp4 movie by clicking the menu link in the lower right hand part of the browser page.
+
+![download the file from browser](wiki-assets/pics/launch-gource-5-download-browser.png)
 
 SOURCE
 ------
