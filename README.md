@@ -18,6 +18,16 @@ Run the launch.sh script from your linux console and open the the interface at h
 * PROJECT_TITLE = (OPTIONAL) text to appear as the title; defaults to git url.
 * LOGO_URL = (OPTIONAL) fully qualified url to logo; defaults to no logo.
 
+EXAMPLE
+-------
+1. Launch script in console
+
+[launch with params](wiki-assets/pics/launch-gource-0.png)
+
+2. Verify the values when prompted; press ENTER key to kick off the show!
+
+[verification screen](wiki-assets/pics/launch-gource-1.png)
+
 SOURCE
 ------
 Copy of entire source project copied from original author is in the Envisaged folder.
